@@ -4,7 +4,7 @@
 
 Almost three decades ago, MBNepal started with a small staff and two fold visions. The first was to provide banking software services in Nepal for rural populations, that even big commercial banks did not have access to in those days. The second was to cultivate technical expertise and build capacity in Nepal, who could serve as consultants to other developing countries that needed similar services. MicroBanker software system was developed by UN-FAO and later MBWin system with the German Development Agency (GiZ), in collaboration with our team. Our office in Nepal became the official partner and competence center for this software, providing services, support and expertise for its implementation around the world.
 
-# Our Tech Stack
+# We usually work with
 
 ||||||||||
 |---|---|---|---|---|---|---|---|---|
