@@ -1,4 +1,4 @@
-![MBLogoMain](https://user-images.githubusercontent.com/85251913/216524479-b5db1867-1cf6-4723-a4c8-194e22973136.png)
+![MBLogoMain](https://github.com/user-attachments/assets/7a8a2f55-7a58-4ba9-b3cb-1af77d392939)
 
 # Our Story
 
